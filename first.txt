@@ -1,0 +1,9 @@
+Development of the GitHub platform began on 1 October 2007.[5][6] The site was launched in April 2008 by Tom Preston-Werner, Chris Wanstrath, and PJ Hyett after it had been made available for a few months prior as a beta period.[7]
+
+Projects on GitHub can be accessed and manipulated using the standard git command-line interface and all of the standard git commands work with it. GitHub also allows registered and non-registered users to browse public repositories on the site. Multiple desktop clients and git plugins have also been created by GitHub and other third parties which integrate with the platform.
+
+The site provides social networking-like functions such as feeds, followers, wikis (using wiki software called gollum) and a social network graph to display how developers work on their versions ("forks") of a repository and which fork (and branch within that fork) is newest.
+
+A user must create an account in order to contribute content to the site, but public repositories can be browsed and downloaded by anyone. With a registered user account, users are able to discuss, manage, create repositories, submit contributions to others' repositories, and review changes to code.
+
+GitHub also operates other services: a pastebin-style site called Gist[7] which is for hosting code snippets (GitHub proper is for hosting larger projects), and a slide hosting service called Speaker Deck.
